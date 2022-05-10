@@ -1,0 +1,16 @@
+{
+  "name": "ogl-gradient-shader",
+  "version": "1.0.0",
+  "description": "Minimal WebGL Library",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/modster/ogl-shader-template.git"
+  },
+  "author": "E.M. Greeff <emgreeff@datadrivendashboards.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/modster/ogl-shader-template/issues"
+  },
+  "homepage": "https://github.com/modster/ogl-shader-template#readme"
+}
