@@ -1,0 +1,10 @@
+body,
+html {
+  margin: 0px;
+  height: 100%;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  overflow: hidden;
+}
